@@ -1,8 +1,4 @@
-# Single Responsibility Principle
-- To exlain this concept, I will implement one real world example. 
-
-
-## Overview
+# Overview
 - The single responsibility principle is a software design principle that states that a module and a class
 should have single or have one reason to change.
 
