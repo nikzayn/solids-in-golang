@@ -2,11 +2,9 @@
 - The open/closed principle is a software design principle that states should be open for extension but closed for modification.
 We can use interfaces for this scenario.
 
-## Best practices while implementing SRP in Go
-- Use interfaces to abstract functionality.
-- Readable and reusable packages that have a clear intent.
-- Avoid methodologies to different functions and pacakges.
-- Small and focused functions and methods should do one thing and do it properly.
+## Examples
+- In first example, I will be explaining how we can use same functionality for multiple structs
+- In second example, I will be explaining how to achieve struct embedding via composition using interfaces to fulfill the ocp concept.
 
 
 ## Design approach for a OCP problem
