@@ -23,7 +23,7 @@ should have single or have one reason to change.
 - Small and focused functions and methods should do one thing and do it properly.
 
 
-## Design approach for a SRP problem
+## Design approach for a SRP principle
 - Let's say, as I do shopping related to groceries, household products etc. I will design a shopping cart system where I will create different packages to set different responsibilites like Cart, Pricing, Item etc.
 - While implementing each package let's first start with Cart, we will implement struct and methods like AddItem, RemoveItem, UpdateItem, etc.
 - Whereas, in package pricing, I will only calculate the total price of the items.
